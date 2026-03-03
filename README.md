@@ -17,12 +17,12 @@
 
 ## Screenshots
 
-*(Add screenshots of the app here if you l![IMG_3007](https://github.com/user-attachments/assets/352d58f7-e3e2-4ade-b587-dd70355e426d)
+*(![IMG_3007](https://github.com/user-attachments/assets/352d58f7-e3e2-4ade-b587-dd70355e426d)
 ![IMG_3006](https://github.com/user-attachments/assets/31ed1983-3ab9-41cd-83ac-1458f7f4a159)
 ![IMG_3005](https://github.com/user-attachments/assets/77392bcc-b656-4fb6-abc3-5983a1dc8636)
 ![IMG_3004](https://github.com/user-attachments/assets/32afb41e-5975-447c-9f17-ca8221658352)
 ![IMG_3003](https://github.com/user-attachments/assets/1eec9974-cd36-479a-a103-a8e5604ff9b3)
-ike.)*
+)*
 
 
 ## Getting started
